@@ -1,7 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 
-https://dev.azure.com/ibartha/Parts%20Unlimited2/_apis/build/status/barthai.calculator?branchName=master
+[![Build Status](https://dev.azure.com/ibartha/Parts%20Unlimited2/_apis/build/status/barthai.calculator?branchName=master)](https://dev.azure.com/ibartha/Parts%20Unlimited2/_build/latest?definitionId=5&branchName=master)
 
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
